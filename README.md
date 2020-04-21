@@ -1,6 +1,7 @@
 ## :pushpin: Data-Visualization-with-Python
 
-Here's somthing that I have been doing today (21-04-2020). It is just a brief introduction to Data Visualization. 
+If you entered here is because you're interested in Data Visualization. Here you will find enough exercises to put in practice your analytical skills. So, what are you waiting for? :shrug:
+
 
 Libraries used:
 
